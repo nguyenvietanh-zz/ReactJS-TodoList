@@ -1,0 +1,17 @@
+.aligned {
+  display: flex;
+  align-items: center;
+}
+.taskItem {
+  text-align: left;
+}
+
+.todo {
+  text-align: left;
+  margin-left: 0px;
+}
+
+.done {
+  text-decoration: line-through;
+  font-size: xx-small;
+}
